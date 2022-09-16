@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(221, 121, 0);
+    background-color: rgb(22, 178, 123);
 
 }
 
@@ -14,6 +14,10 @@ h1{
     text-shadow: 3px 3px yellow;
     font-size: 40px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+@keyframes jonnier {
+    0% { transform: rotate(3);}
 }
 
 .imga{
